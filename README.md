@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an SWE Intern @ [Encora Inc](https://www.encora.com). Located in Mexico
+- 🔭 I’m currently working as a SWE Intern @ [Encora Inc](https://www.encora.com). Located in Mexico
 - 🌱 I’m currently learning Full Stack Technologies
 - 😄 Pronouns: she/her
 
