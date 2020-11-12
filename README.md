@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Full Stack Technologies
 - 😄 Pronouns: she/her
 
-Find me on [Twitter](https://twitter.com/devjuliet), [Medium](https://devjuliet.medium.com), [LinkedIn](https://www.linkedin.com/in/jlt-navarro/)
+Find me on [Twitter](https://twitter.com/devjuliet), [Medium](https://devjuliet.medium.com), [LinkedIn](https://www.linkedin.com/in/devjuliet/)
