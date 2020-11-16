@@ -1,4 +1,4 @@
-### Hi! ¡Hola! Hallo! 👩🏻‍💻
+### ¡Hola! Hi! Hallo! 👩🏻‍💻
 
 - 👾  I'm majoring in Computer Science @ [UACH](https://www.uach.mx)
 - ⚙️  I’m currently working as a SWE Intern @ [Encora Inc](https://www.encora.com). Located in Mexico
