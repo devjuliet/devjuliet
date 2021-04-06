@@ -1,7 +1,7 @@
 ### ¡Hola! Hi! Hallo! 👩🏻‍💻
 
-- 👾    Majored in Computer Science @ [UACH](https://www.uach.mx)
-- ⚙️    I’m currently working as a Software Developer @ [Oracle](https://www.oracle.com). Located in Mexico
+- ⚙️    Software Developer @ [Oracle](https://www.oracle.com).
+- 👾    Computer Science Major @ [UACH](https://www.uach.mx)
 - 🧶    My hobbies include knitting, learning German, and creating Spotify playlists! 
 - 👻    Pronouns: she/her
 
