@@ -2,7 +2,7 @@
 
 - ⚙️    Software Developer @ [Oracle](https://www.oracle.com)
 - 👾    Computer Science Major @ [UACH](https://www.uach.mx)
-- 🧶    My hobbies include knitting, learning German, and creating Spotify playlists! 
+- 🧶    My hobbies include knitting, learning German, doing puzzles, and creating Spotify playlists! 
 - 👻    Pronouns: she/her
 
 
